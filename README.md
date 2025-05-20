@@ -15,11 +15,11 @@ Sebuah aplikasi belajar online sederhana, dibuat sebagai media belajar pada Ekst
 
   - Create
     - Admin dapat menambahkan materi
-    - Admin dapat menulis materi (segera)
+    - Admin dapat menulis materi
     - Admin dapat upload materi berupa file pdf
   - Read
     - Semua dapat melihat dan mempelajari materi
-    - Siswa dapat mengunduh mateti berupa file pdf
+    - Siswa dapat mendownload materi berupa file pdf
   - Update
     - Admin dapat mengubah materi
   - Delete
@@ -95,4 +95,4 @@ _Masih banyak file dan fungsi yang harus diperbaiki, saya akan terus mencoba men
 
 ## Author
 
-Nur Amali Fikriyah - [nuramalifikriyah@gmail.com](mailto:nuramalifikriyah.com)
+Nur Amali Fikriyah - [Instagram](https://www.instagram.com/nramalifk_/)
