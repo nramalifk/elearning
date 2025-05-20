@@ -37,7 +37,7 @@ Sebuah aplikasi belajar online sederhana, dibuat sebagai media belajar pada Ekst
 1. Download atau clone repositori ini
 
 ```
-   git clone https://github.com/xenossz/inventaris_app.git
+   git clone https://github.com/nramalifk/elearning.git
 ```
 
 2. Masuk ke folder project ini
