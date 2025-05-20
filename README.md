@@ -69,25 +69,25 @@ Sebuah aplikasi belajar online sederhana, dibuat sebagai media belajar pada Ekst
   ![image](screenshot/login.png)
 
 - Halaman List Materi Admin
-  ![image](screenshot/admin_list materi.png)
+  ![image](screenshot/admin_list_materi.png)
 
 - Halaman List Materi Siswa
-  ![image](screenshot/siswa_list materi.png)
+  ![image](screenshot/siswa_list_materi.png)
 
 - Halaman Tambah Materi
-  ![image](screenshot/add materi.png)
+  ![image](screenshot/add_materi.png)
 
 - Halaman Edit Materi
-  ![image](screenshot/edit materi.png)
+  ![image](screenshot/edit_materi.png)
 
 - Halaman View Materi Admin
-  ![image](screenshot/admin_view materi.png)
+  ![image](screenshot/admin_view_materi.png)
 
 - Halaman View Materi Siswa
-  ![image](screenshot/siswa_view materi.png)
+  ![image](screenshot/siswa_view_materi.png)
 
 - Halaman Huruf Jepang
-  ![image](screenshot/huruf jepang.png)
+  ![image](screenshot/huruf_jepang.png)
 
 _Form pendaftaran dibuat untuk terdaftar sebagai siswa_
 
