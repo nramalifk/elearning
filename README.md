@@ -42,10 +42,9 @@ Sebuah aplikasi belajar online sederhana, dibuat sebagai media belajar pada Ekst
 
 2. Masuk ke folder project ini
 3. Buka file `application/config/config.php`
-4. Ubah isi dari variable `$config['base_url']` dengan `http://localhost/namafolder/`
-5. Untuk `namafolder` silahkan ganti sesuai nama folder dari aplikasi ini di komputer atau laptop kalian
-6. Buat database dengan nama `elearning` pada phpMyAdmin, import `elearning.sql`
-7. Buka `application/config/database.php` dan perbarui pengaturan koneksi database:
+4. Ubah isi dari variable `$config['base_url']` dengan `http://localhost/elearning/`
+5. Buat database dengan nama `elearning` pada phpMyAdmin, import `elearning.sql`
+6. Buka `application/config/database.php` dan perbarui pengaturan koneksi database:
    ```php
    $db['default'] = array(
    'hostname' => 'localhost',
@@ -56,36 +55,39 @@ Sebuah aplikasi belajar online sederhana, dibuat sebagai media belajar pada Ekst
    // Pengaturan lainnya...
    );
    ```
-8. Untuk login `admin` kalian bisa menggunakan email = `admin@domain.sch.id` dan password `ngckurabu`
+7. Untuk login `admin` kalian bisa menggunakan email = `admin@domain.sch.id` dan password `ngckurabu`
 
 ## Screenshot
 
 - Halaman Homepage
-  ![image](screenshot/dashboard.png)
-
-- Halaman About
-  ![image](screenshot/items.png)
+  ![image](screenshot/homepage.png)
 
 - Halaman Register
-  ![image](screenshot/items_add.png)
+  ![image](screenshot/regist.png)
 
 - Halaman Login
-  ![image](screenshot/items_edit.png)
-
-- Halaman List Materi Admin
-  ![image](screenshot/items_views.png)
-
-- Halaman List Materi Siswa
   ![image](screenshot/login.png)
 
+- Halaman List Materi Admin
+  ![image](screenshot/admin_list materi.png)
+
+- Halaman List Materi Siswa
+  ![image](screenshot/siswa_list materi.png)
+
 - Halaman Tambah Materi
-  ![image](screenshot/register.png)
+  ![image](screenshot/add materi.png)
 
 - Halaman Edit Materi
-  ![image](screenshot/register.png)
+  ![image](screenshot/edit materi.png)
 
-- Halaman View Materi
-  ![image](screenshot/register.png)
+- Halaman View Materi Admin
+  ![image](screenshot/admin_view materi.png)
+
+- Halaman View Materi Siswa
+  ![image](screenshot/siswa_view materi.png)
+
+- Halaman Huruf Jepang
+  ![image](screenshot/huruf jepang.png)
 
 _Form pendaftaran dibuat untuk terdaftar sebagai siswa_
 
