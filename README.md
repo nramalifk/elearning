@@ -83,6 +83,9 @@ Sebuah aplikasi belajar online sederhana, dibuat sebagai media belajar pada Ekst
 - Halaman View Materi Admin
   ![image](screenshot/admin_view_materi.png)
 
+- Halaman Tulis Materi Admin
+  ![image](screenshot/tulis_materi.png)
+
 - Halaman View Materi Siswa
   ![image](screenshot/siswa_view_materi.png)
 
